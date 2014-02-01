@@ -1,6 +1,6 @@
 #!/usr/bin/python
 import sys
-a =sys.argv[1]k
+a =sys.argv[1]
 
 
 if (int(a)%2==0):
